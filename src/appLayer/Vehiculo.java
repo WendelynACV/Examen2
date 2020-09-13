@@ -9,7 +9,7 @@ public class Vehiculo {
     private int kilometrajeActual;
     private int cantidadDisponibleDelAuto;
 
-    public Vehiculo(String placa, String imagen, int modelo,String marca, int kilometrajeActual, int cantidadDisponibleDelAuto){
+    public Vehiculo(String placa, String imagen, int modelo, String marca, int kilometrajeActual, int cantidadDisponibleDelAuto){
         this.placa = placa;
         this.imagen = imagen;
         this.modelo = modelo;
